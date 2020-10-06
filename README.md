@@ -1,4 +1,5 @@
-# Weaknesses Testing Tool: Towards a Technique to Detect Weaknesses in C Programs.
+# Weaknesses Testing Tool 
+## Towards a Technique to Detect Weaknesses in C Programs.
 
   A testing technique to reports weaknesses in C programs.
 
@@ -7,7 +8,8 @@
 
 ## Technique
 ### Overview
-- ...
+
+<embed src="images/technique2.0.pdf" width="960px" height="180px" />
 
 ## Evaluation
 - ...
