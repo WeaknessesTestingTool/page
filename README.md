@@ -2,6 +2,19 @@
 
   A testing technique to reports weaknesses in C programs.
 
+## Abstract
+- ...
+
+## Technique
+### Overview
+- ...
+
+## Evaluation
+- ...
+
+## Contact
+- ...
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WeaknessesTestingTool/page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
