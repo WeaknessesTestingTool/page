@@ -9,7 +9,7 @@
 ## Technique
 ### Overview
 
-<embed src="images/technique2.0.pdf" width="960px" height="180px" />
+<img src="images/technique.png" alt="hi" class="inline"/>
 
 ## Evaluation
 - ...
