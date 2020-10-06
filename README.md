@@ -7,7 +7,8 @@
 
 ## Technique
 ### Overview
-- ...
+
+<img src="images/technique2.0.pdf" alt="hi" class="inline"/>
 
 ## Evaluation
 - ...
