@@ -15,12 +15,14 @@
 <img src="images/technique.png" alt="hi" class="inline"/>
 
 ## Evaluation
-- ...
 
+<p style="text-align:center">Table III: Overview of the Selected Subjects.</p>
 <img src="images/table3.png" alt="hi" class="inline"/>
 
+<p style="text-align:center">Table IV: Results of performing \twt{} on C projects to detect weaknesses; WL = Weakness line; RTC = Run test case; FT = Fuzzing test; NI = Number of inputs; RTC/AFL = Run test cases with AFL inputs; IFTC = Inputs that made the test cases fail; IPTC = Inputs that made the test cases pass.</p>
 <img src="images/table4.png" alt="hi" class="inline"/>
 
+<p style="text-align:center">Table V: Time-consuming of each phase of \twt{}; RTC = Run test case; FT = Fuzzing test; RTC/AFL = Run test cases with AFL inputs.</p>
 <img src="images/table5.png" alt="hi" class="inline"/>
 
 ### Support or Contact
